@@ -1,6 +1,6 @@
 # Lighthouse Labs | Web Servers 101
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-web-servers-101/tree/2022.10.25-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/763918992/7f00b90947)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-web-servers-101/tree/2022.10.25-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/764117456/84340c3809)
 
 * [X] Review: HTTP
 * [X] What is a client?
